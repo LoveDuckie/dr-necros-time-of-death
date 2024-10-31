@@ -1,0 +1,43 @@
+<div class="ItemStyle radius" id="ItemScore_%SCOREID%">
+    
+    <a href="#" onclick="$('#ItemScoreMore_%SCOREID%').toggle();">
+        <div style="overflow: auto;">
+            <div class="%POSITION% maintext radius" style="float: left; width: 50px; padding: 15px;">
+                %_POSITION_% 
+           </div>
+
+            <div class="maintext" style="float: left; padding: 15px;">
+                %_END_SCORE_%
+            </div>
+
+            <div class="maintext" style="width: 200px;float: right; border-left: 1px solid black; padding: 15px;"> 
+                Kills: %KILLCOUNT%
+            </div>
+        </div>
+    </a>
+</div>    
+<div class="ItemScoreMore" id="ItemScoreMore_%SCOREID%" style="display: none; overflow: auto; padding-top: 15px; padding-bottom: 15px;">
+        <div id="HERO1_SCORE_%SCOREID%" style="overflow: auto;">
+            <div style="float: left; height: 116px;">
+                <img src="images/Sarge_Normal.png" />
+            </div>
+        </div>
+        
+        <div id="HERO2_SCORE_%SCOREID%" style="overflow: auto;">
+            <div style="float: left; height: 116px;">
+                <img src="images/Sara_Normal.png" />
+            </div>
+        </div>
+        
+        <div id="HERO3_SCORE_%SCOREID%" style="overflow: auto;">
+            <div style="float: left; height: 116px;">
+                <img src="images/Gary_Normal.png" /> 
+            </div>
+        </div>
+        
+        <div id="HERO4_SCORE_%SCOREID%" style="overflow: auto;">
+            <div style="float: left; height: 116px;">
+                <img src="images/Miles_Normal.png" />
+            </div>
+        </div>
+</div>

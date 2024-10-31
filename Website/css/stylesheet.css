@@ -1,0 +1,53 @@
+body
+{
+    background-color: #459ceb;
+}
+
+#root
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    overflow: auto;
+}
+
+#BannerImage
+{
+    width: 500px;
+}
+
+#CountdownPrefix
+{
+    background-color: #3880c2;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-family: verdana;
+    font-size: 12px;
+}
+
+#CountdownArea
+{
+    padding: 15px;
+    font-family: verdana;
+    font-size: 12px;
+    background-color: #3880c2;
+    color: white;
+}
+
+/* Overwrite the base tags that are used. */
+h1
+{
+    font-family: verdana;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+div
+{
+    font-family: Verdana;
+    font-size: 12px;
+    color: white;
+}
+

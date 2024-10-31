@@ -1,0 +1,53 @@
+[17-Oct-2012 15:46:21 UTC] PHP Fatal error:  Class 'Leaderboard' not found in /home/luccie/public_html/teamawesome/Leaderboard/index.php on line 5
+[17-Oct-2012 23:25:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 78
+[17-Oct-2012 23:58:51 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/luccie/public_html/teamawesome/Leaderboard/index.php on line 32
+[17-Oct-2012 23:58:52 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/luccie/public_html/teamawesome/Leaderboard/index.php on line 32
+[17-Oct-2012 23:58:53 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/luccie/public_html/teamawesome/Leaderboard/index.php on line 32
+[23-Oct-2012 13:03:09 UTC] PHP Fatal error:  Call to undefined function PostLog() in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 103
+[23-Oct-2012 13:04:16 UTC] PHP Fatal error:  Call to a member function bindParam() on a non-object in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 150
+[23-Oct-2012 13:04:17 UTC] PHP Fatal error:  Call to a member function bindParam() on a non-object in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 150
+[23-Oct-2012 13:04:17 UTC] PHP Fatal error:  Call to a member function bindParam() on a non-object in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 150
+[23-Oct-2012 13:05:07 UTC] PHP Fatal error:  Call to undefined method PDOStatement::exuecte() in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 153
+[23-Oct-2012 13:05:08 UTC] PHP Fatal error:  Call to undefined method PDOStatement::exuecte() in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 153
+[23-Oct-2012 13:33:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 157
+[10-Nov-2012 14:02:32 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 69
+[10-Nov-2012 15:26:12 UTC] PHP Fatal error:  Call to a member function api() on a non-object in /home/luccie/public_html/teamawesome/Leaderboard/facebook_test.php on line 6
+[10-Nov-2012 15:26:32 UTC] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:15:55 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:19:32 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:19:33 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:31:32 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/luccie/public_html/teamawesome/Leaderboard/facebook_test.php on line 7
+[10-Nov-2012 16:33:26 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:33:52 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:33:54 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:33:55 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:34:25 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:34:27 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/base_facebook.php on line 1238
+[10-Nov-2012 16:41:11 UTC] PHP Fatal error:  Class 'Facebook' not found in /home/luccie/public_html/teamawesome/Leaderboard/facebook_test.php on line 5
+[10-Nov-2012 16:41:23 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/luccie/public_html/teamawesome/Leaderboard/fb/src/base_facebook.php on line 1238
+[10-Nov-2012 16:55:55 UTC] PHP Fatal error:  Class 'Facebook' not found in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 6
+[10-Nov-2012 17:13:42 UTC] PHP Fatal error:  Class 'Facebook' not found in /home/luccie/public_html/teamawesome/Leaderboard/leaderboard.php on line 6
+[10-Nov-2012 17:49:27 UTC] OAuthException: (#803) Some of the aliases you requested do not exist: page_id
+[10-Nov-2012 17:49:31 UTC] CSRF state token does not match one provided.
+[10-Nov-2012 17:49:32 UTC] OAuthException: (#803) Some of the aliases you requested do not exist: page_id
+[10-Nov-2012 17:49:39 UTC] OAuthException: (#803) Some of the aliases you requested do not exist: page_id
+[10-Nov-2012 17:49:59 UTC] CSRF state token does not match one provided.
+[10-Nov-2012 17:49:59 UTC] OAuthException: (#803) Some of the aliases you requested do not exist: page_id
+[10-Nov-2012 17:51:38 UTC] CSRF state token does not match one provided.
+[10-Nov-2012 17:51:38 UTC] OAuthException: (#803) Some of the aliases you requested do not exist: page_id
+[10-Nov-2012 17:55:20 UTC] CSRF state token does not match one provided.
+[10-Nov-2012 17:55:21 UTC] CSRF state token does not match one provided.
+[10-Nov-2012 18:00:22 UTC] OAuthException: (#506) Duplicate status message
+[10-Nov-2012 18:00:52 UTC] OAuthException: (#506) Duplicate status message
+[10-Nov-2012 18:01:28 UTC] OAuthException: (#506) Duplicate status message
